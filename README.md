@@ -9,7 +9,6 @@ I'm a __frontend developer__ based in __Lagos Nigeria__. I am highly motivated a
 
 * 💼 Currently I’m looking for a front end developer role <br/>
 * 🔖 Discover my [Curriculum Vitae](https://drive.google.com/file/d/1QV7uhYWQgldPpntjD3_foxNUXDb9p1Lr/view)<br/>
-* ✍🏻 I wrote dev articles on [dev.to](https://dev.to/viclafouch) <br/>
 * 📫 Contact me [@TrustedSheriff](https://twitter.com/olakunle_exxdee)
 
 ## My skills
