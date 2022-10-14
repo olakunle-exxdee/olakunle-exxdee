@@ -2,11 +2,6 @@
 <!-- Heading -->
 <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm  Saheed Ogunsolu</h3>
 
-<!-- Profile Views -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=olakunle-exxdee&label=Profile%20views&color=0e75b6&style=flat" alt="saheed ogunsolu" />
-</p>
-
 <p align="center">
   <a href="https://www.ogunsolu.xyz">Website</a> •
   <a href="https://twitter.com/olakunle_exxdee">Twitter</a>
@@ -57,12 +52,7 @@
   <summary><b>:zap: GitHub Profile Stat</b></summary>
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=olakunle-exxdee&show_icons=true" />
 </details>
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/olakunle-exxdee/"><img alt="Saheed' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=olakunle-exxdee&custom_title=Saheed's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-</details>
+
 
 <!-- GitHub section: END -->
 
