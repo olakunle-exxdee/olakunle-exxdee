@@ -14,9 +14,7 @@
 
 
 <!-- code gif-->
-<img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
-
-- 😄 My Pronouns: He/His  
+<img align="right" alt="GIF" src="./code.gif" width="500" height="320" />  
 
 - 💬 Ask me about: ReactJS, Typescript, Javascript.
 
