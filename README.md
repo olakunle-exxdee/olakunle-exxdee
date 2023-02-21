@@ -10,7 +10,7 @@
  <!-- About section -->
 
 ---
-✨ I am  Olakunle a Frontend Engineer and Master’s Student at ESIGELEC based in Rouen , France. I utilize web-based technologies like HTML, CSS, Javascript, Typescript, and React to solve issues, bridging the gap, between functionality and aesthetics
+✨ I am  Olakunle a Software Engineer and Master’s Student at ESIGELEC/INSA Rouen France.
 
 
 <!-- code gif-->
