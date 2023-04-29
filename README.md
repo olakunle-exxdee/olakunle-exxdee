@@ -7,7 +7,7 @@ Software Engineer
 
 <p align="center">
   <a href="https://www.ogunsolu.xyz">Website</a> •
-  <a href="https://twitter.com/olakunle_exxdee">Twitter</a>
+  <a href="https://twitter.com/olakunle_exxdee">Twitter</a> •
   <a href="https://www.linkedin.com/in/ogunsoluolakunle">Linkedin</a>
 </p>
 
