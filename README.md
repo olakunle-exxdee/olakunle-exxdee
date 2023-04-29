@@ -34,38 +34,11 @@
 </a>
    </p>
 
- <!-- Conecct section: END -->
+ <!-- Connect section: END -->
  
-  <!-- GitHub section -->
-
- ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
- 
- <div>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=olakunle-exxdee&theme=nightowl&date_format=%5BY%20%5DM%20" alt="Olakunle's LangStat" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=olakunle-exxdee&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Olakunle's language" height="192px"  width="500px"/>
-</div>
-
-<br>
-<br>
-**Expand to view**
-
-
-<details>
-  <summary><b>:zap: GitHub Profile Stat</b></summary>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=olakunle-exxdee&show_icons=true" />
-</details>
-
-
-<!-- GitHub section: END -->
 
 <!-- Profile Views -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olakunle-exxdee&label=Profile%20views&color=0e75b6&style=flat" alt="Olakunleogunsolu" />
 </p>
 
-<!-- THE END -->
-
-
-<!--
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=olakunle-exxdee.olakunle-exxdee)
