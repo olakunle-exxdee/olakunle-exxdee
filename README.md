@@ -33,7 +33,7 @@ Software Engineer
 <!-- code gif-->
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />  
 
-- 💬 Ask me about: ReactJS, Typescript, Javascript.
+- 💬 Ask me about: ReactJS, Typescript, Javascript , Python , Django ,Docker ,SQL.
 
 - 📫 How to reach me: [@olakunle_exxdee](https://twitter.com/olakunle_exxdee)
 
